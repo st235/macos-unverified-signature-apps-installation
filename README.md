@@ -4,7 +4,7 @@
 
 If you're installing a `.dmg` or `.app` file and encounter warnings, follow the steps below to run the app safely.
 
->![NOTE]
+>[!NOTE]
 > The steps in this guide use `BlackJack Math` — a game available on [itch.io](https://st235.itch.io/blackjack-math) — as an example.
 
 ## Step 1: Download the app image
@@ -17,7 +17,7 @@ Double-click the `.dmg` file. You’ll likely see a message like:
 
 ![Warning](./assets/step%202.%20attempt%20to%20open%20the%20image.png)
 
->![INFO]
+>[!INFO]
 >The message means that the app was signed with a local (aka ad-hoc) or free developer's license.
 
 Click **"Done"** when this message appears.
@@ -51,7 +51,7 @@ Drag and drop the app into your **Applications** folder.
 
 Go to **Finder** → **Applications** (alternatively, open **Launchpad**), and double-click the app to launch it.
 
->![INFO]
+>[!INFO]
 >You most likely will encounter the unverified developer warning again.
 
 ![Step 6: app warning](./assets/step%206.%20app%20warning.png)
@@ -64,5 +64,5 @@ Click **"Open Anyway"**, then confirm the prompt that appears. The app should no
 
 ![Step 6: dialog](./assets/step%206.%20dialog.png)
 
->![IMPORTANT]
+>[!IMPORTANT]
 >Only bypass these security warnings if you're confident the app is from a trusted source. macOS uses these checks to protect against potentially harmful software.
